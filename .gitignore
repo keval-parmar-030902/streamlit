@@ -1,0 +1,5 @@
+# all csv file are ignored
+.csv
+
+# all xslx file (excel file) are ignored
+.xslx
